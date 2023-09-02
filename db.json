@@ -694,29 +694,6 @@
 },
 {
   "id": 28,
-  "name": "Baby Stroller",
-  "description": "A comfortable and stylish stroller for your baby.",
-  "rating": "RatingFive",
-  "ratingId": "rating-5",
-  "reviewCount": 10,
-  "fullDescription": "Our baby stroller is designed for comfort and convenience. It's perfect for taking your baby on outings and walks.",
-  "discountPrice": "49.99USD",
-  "price": "59.99USD",
-  "image": "https://example.com/baby-stroller.jpg",
-  "freshness": "Brand New",
-  "farm": "Local Baby Store",
-  "deliveryArea": "Local",
-  "stock": 25,
-  "sku": "46802",
-  "category": "Baby",
-  "buyBy": ["piece"],
-  "delivery": 1,
-  "origins": "Available at our local baby store.",
-  "recipe": "Take your baby on adventures with this comfortable stroller.",
-  "vitamins": []
-},
-{
-  "id": 29,
   "name": "Baby Blanket",
   "description": "Soft and cozy blanket for your baby.",
   "rating": "RatingFour",
@@ -739,7 +716,7 @@
   "vitamins": []
 },
 {
-  "id": 30,
+  "id": 29,
   "name": "Baby Shampoo and Wash",
   "description": "Gentle shampoo and wash for your baby's delicate skin.",
   "rating": "RatingFive",
@@ -762,30 +739,7 @@
   "vitamins": []
 },
 {
-  "id": 31,
-  "name": "Pain Relief Tablets (Pack of 50)",
-  "description": "Effective pain relief tablets for various ailments.",
-  "rating": "RatingFive",
-  "ratingId": "rating-5",
-  "reviewCount": 14,
-  "fullDescription": "Our pain relief tablets are trusted for their effectiveness in relieving various types of pain, from headaches to muscle aches.",
-  "discountPrice": "6.99USD",
-  "price": "9.99USD",
-  "image": "https://example.com/pain-relief-tablets.jpg",
-  "freshness": "Brand New",
-  "farm": "Local Pharmacy",
-  "deliveryArea": "Local",
-  "stock": 40,
-  "sku": "79246",
-  "category": "Pharmacy",
-  "buyBy": ["pack"],
-  "delivery": 1,
-  "origins": "Available at our local pharmacy.",
-  "recipe": "Relieve pain and discomfort with these trusted tablets.",
-  "vitamins": []
-},
-{
-  "id": 32,
+  "id": 30,
   "name": "Allergy Relief Syrup",
   "description": "Effective allergy relief syrup for seasonal allergies.",
   "rating": "RatingFour",
@@ -808,7 +762,7 @@
   "vitamins": []
 },
 {
-  "id": 33,
+  "id": 31,
   "name": "Vitamin C Supplements (Pack of 60)",
   "description": "Supplements for immune support and overall health.",
   "rating": "RatingFive",
@@ -837,7 +791,7 @@
   ]
 },
 {
-  "id": 34,
+  "id": 32,
   "name": "Antibacterial Hand Sanitizer (Pack of 3)",
   "description": "Effective hand sanitizer to keep your hands clean.",
   "rating": "RatingFive",
@@ -860,7 +814,7 @@
   "vitamins": []
 },
 {
-  "id": 35,
+  "id": 33,
   "name": "First Aid Kit",
   "description": "A comprehensive first aid kit for emergencies.",
   "rating": "RatingFour",

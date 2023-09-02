@@ -1,4 +1,4 @@
-{
+[
 {
   "id": 1,
   "name": "Freshly Baked Bread",
@@ -882,4 +882,4 @@
   "recipe": "Be prepared for emergencies with this comprehensive first aid kit.",
   "vitamins": []
 }
-}
+]
